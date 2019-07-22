@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnectTest", "DbConnectTest\DbConnectTest.csproj", "{E396C399-F5C7-4299-9F0A-E1A56F786FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{ABA65942-C7C2-49C7-888B-8E574B8804F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E396C399-F5C7-4299-9F0A-E1A56F786FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E396C399-F5C7-4299-9F0A-E1A56F786FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E396C399-F5C7-4299-9F0A-E1A56F786FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E396C399-F5C7-4299-9F0A-E1A56F786FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA65942-C7C2-49C7-888B-8E574B8804F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA65942-C7C2-49C7-888B-8E574B8804F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA65942-C7C2-49C7-888B-8E574B8804F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA65942-C7C2-49C7-888B-8E574B8804F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {402A6B40-A317-4F2B-8FF2-C6AE5A26E04F}
+	EndGlobalSection
+EndGlobal
